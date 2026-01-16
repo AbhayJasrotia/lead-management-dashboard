@@ -11,7 +11,7 @@ function Login({ setIsLoggedIn }) {
   const handleLogin = async (e) => {
     e.preventDefault()
     try {
-      const res = await axios.post('http://localhost:5000/api/login', {
+      const res = await axios.post(`${import.meta.env.VITE_API_URL}/api/login`, {
         username,
         password
       })
