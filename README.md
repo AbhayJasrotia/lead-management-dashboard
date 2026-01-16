@@ -57,7 +57,7 @@ node seed.js
 ![Screenshot 2026-01-16 161518](https://github.com/user-attachments/assets/06741bf7-e455-4974-b945-d69dbd2157dd)
 
 ## Deployed Links
-- Frontend: 
+- Frontend: lead-management-dashboard-done.vercel.app
 - Backend: https://lead-backend-46df.onrender.com/api/leads                     -         (https://lead-backend-46df.onrender.com/)
 
 ## Author
