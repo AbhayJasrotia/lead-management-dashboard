@@ -53,9 +53,12 @@ node seed.js
 - Username: `admin`
 - Password: `admin123`
 
+## Screenshot
+![Screenshot 2026-01-16 161518](https://github.com/user-attachments/assets/06741bf7-e455-4974-b945-d69dbd2157dd)
+
 ## Deployed Links
 - Frontend: [Your Vercel URL]
 - Backend: [Your Render URL]
 
 ## Author
-Your Name
+Abhay
