@@ -58,7 +58,7 @@ node seed.js
 
 ## Deployed Links
 - Frontend: 
-- Backend: 
+- Backend: https://lead-backend-46df.onrender.com/api/leads                     -         (https://lead-backend-46df.onrender.com/)
 
 ## Author
 Abhay
