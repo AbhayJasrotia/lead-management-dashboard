@@ -19,7 +19,7 @@ A full-stack CRM application built with MERN stack.
 ```bash
 cd backend
 npm install
-cp .env.example .env  # Add your MongoDB URI
+cp .env.example .env  - MONGO_URI=mongodb+srv://admin:admin@lead.1vxulbb.mongodb.net/?appName=Lead
 npm start
 ```
 
@@ -34,7 +34,7 @@ npm run dev
 
 ### Backend (.env)
 ```
-MONGO_URI=your_mongodb_uri
+MONGO_URI=MONGO_URI=mongodb+srv://admin:admin@lead.1vxulbb.mongodb.net/?appName=Lead
 PORT=5000
 ```
 
@@ -57,8 +57,8 @@ node seed.js
 ![Screenshot 2026-01-16 161518](https://github.com/user-attachments/assets/06741bf7-e455-4974-b945-d69dbd2157dd)
 
 ## Deployed Links
-- Frontend: [Your Vercel URL]
-- Backend: [Your Render URL]
+- Frontend: 
+- Backend: 
 
 ## Author
 Abhay
